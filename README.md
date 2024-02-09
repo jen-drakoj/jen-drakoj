@@ -3,7 +3,6 @@ Hello there!
 - 👋 I'm Jen!
 - 👀 I'm interested in games
 - 🌱 I'm currently learning how to get my [imaginarium](https://jen-drakoj.github.io/) started
-<!-- - 📫 How to reach me ... -->
 - ⚡ Fun fact: Mi lernas Esperanton!
 
 <!---
